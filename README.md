@@ -1,6 +1,7 @@
-Web URL: https://gangisgiang.github.io/Job-Application-Page/
+# Web URL: 
+https://gangisgiang.github.io/Job-Application-Page/
 
-
+# Description:
 A clean, responsive website that displays job listings with simple filtering options.
 Designed for users to browse jobs easily across devices.
 
